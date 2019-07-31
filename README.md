@@ -11,10 +11,7 @@
 远程调用时，能够像本地调用一样方便，让调用者感知不到远程调用的逻辑。
 
 
-2. RPC调用和普通本地调用有什么区别
-
-
-本地调用：
+2. RPC调用和普通本地调用有什么区别 本地调用：
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190705175548102.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQxNTYyNjY1,size_16,color_FFFFFF,t_70)
    
  远程过程调用：
